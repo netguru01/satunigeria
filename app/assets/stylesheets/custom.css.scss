@@ -41,7 +41,17 @@ $navbar-default-bg : #D1CBC2;
     background-color: brown;
 }
 
-.footer {
+.article-actions {
+    border-top: 1px solid #eaeaea;
+    padding-top: 5px;
+}
+
+
+.description {
+    margin-top: 0;
+}
+
+footer {
     margin-top: 45px;
     padding-top: 5px;
     border-top: 1px solid #eaeaea;
