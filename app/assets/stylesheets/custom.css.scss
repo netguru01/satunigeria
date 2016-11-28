@@ -4,6 +4,10 @@ $navbar-default-bg : #D1CBC2;
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+body {
+    
+}
+
 #logo {
     float: left;
     color: #fff;
@@ -25,7 +29,9 @@ $navbar-default-bg : #D1CBC2;
 .jumbotron {
     background-image: asset-url("klmy.png");
     background-size: cover;
-    height: 550px;
+    height: 500px;
+    margin: 0;
+    
 }
 
 .jumbotron h1 {
